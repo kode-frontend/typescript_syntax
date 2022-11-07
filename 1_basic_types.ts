@@ -156,6 +156,21 @@ let impossibleNull: string = null;
  * Представляет любой не примитивный тип
  */
 
+let person = {
+  name: 'John',
+  age: 33,
+};
+
+
+
+
+
+
+
+
+
+
+
 // type User1 = {
 //   id: number
 //   fullName: string
